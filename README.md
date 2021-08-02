@@ -1,2 +1,2 @@
 # loan_app
-Loan Approval App
+Loan Approval Analysis
